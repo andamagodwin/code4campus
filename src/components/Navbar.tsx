@@ -46,7 +46,6 @@ const Navbar = () => {
 					<a href="#courses" className="block text-gray-700 hover:text-yellow-400 font-medium transition">Courses</a>
 					<a href="#about" className="block text-gray-700 hover:text-yellow-400 font-medium transition">About</a>
 					<a href="#contact" className="block text-gray-700 hover:text-yellow-400 font-medium transition">Contact</a>
-					<a href="#get-started" className="block mt-2 px-4 py-2 rounded-full bg-yellow-400 text-white font-semibold shadow hover:bg-yellow-500 transition text-center">Get Started</a>
 				</div>
 			)}
 		</nav>
