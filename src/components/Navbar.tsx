@@ -15,10 +15,10 @@ const Navbar = () => {
 
 				{/* Desktop Menu */}
 				<div className="hidden md:flex space-x-8 items-center">
-					<a href="#features" className="text-gray-700 hover:text-yellow-400 font-medium transition">Features</a>
-					<a href="#courses" className="text-gray-700 hover:text-yellow-400 font-medium transition">Courses</a>
-					<a href="#about" className="text-gray-700 hover:text-yellow-400 font-medium transition">About</a>
-					<a href="#contact" className="text-gray-700 hover:text-yellow-400 font-medium transition">Contact</a>
+					<a href="#features" className="text-gray-700 hover:text-white font-medium transition">Features</a>
+					<a href="#courses" className="text-gray-700 hover:text-white font-medium transition">Courses</a>
+					<a href="#about" className="text-gray-700 hover:text-white font-medium transition">About</a>
+					<a href="#contact" className="text-gray-700 hover:text-white font-medium transition">Contact</a>
 				</div>
 
 				{/* Mobile Hamburger */}
