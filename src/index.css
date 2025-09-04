@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+	font-family: 'Fira Code', ui-sans-serif, system-ui, sans-serif;
+}

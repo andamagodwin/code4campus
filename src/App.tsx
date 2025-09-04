@@ -1,13 +1,20 @@
 
 import './App.css'
 
-function App() {
+import Navbar from './components/Navbar';
+import Hero from './components/Hero';
 
+
+function App() {
   return (
     <>
-      <h1>This is the App component</h1>
+      <Navbar />
+      <div className="pt-1">
+        <Hero />
+        {/* You can add more sections/components below */}
+      </div>
     </>
-  )
+  );
 }
 
 export default App
