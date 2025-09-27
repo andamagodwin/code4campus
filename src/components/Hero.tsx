@@ -81,7 +81,7 @@ const Hero = () => {
 					<div className="ml-3">
 						<p className="text-sm text-orange-700 font-medium">
 							🚧 <strong>Coming Soon!</strong> We're still working on this webpage. 
-							Stay tuned for amazing coding courses and resources!
+							Stay tuned for amazing resources!
 						</p>
 					</div>
 				</div>
